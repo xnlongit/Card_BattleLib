@@ -1,0 +1,1 @@
+exports.BATTLE_MAX_TURN = 25;

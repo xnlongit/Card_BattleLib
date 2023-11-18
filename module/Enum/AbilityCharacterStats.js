@@ -1,0 +1,25 @@
+exports.ABILITY_MIN = exports.ABILITY_HP = 1;//HP
+exports.ABILITY_ATK = 2;//Tấn công
+exports.ABILITY_DEF = 3;//Phòng ngự
+exports.ABILITY_SPEED = 4;//Tốc độ
+exports.ABILITY_DAMAGE_SKILL = 5;//Sát thương kỹ năng
+exports.ABILITY_HIT_RATE = 6;//Tỉ lệ trúng
+exports.ABILITY_DODGE_RATE = 7;//Tỉ lệ né
+exports.ABILITY_VIOLENCE_RATE = 8;//Tỉ lệ bạo
+exports.ABILITY_DEF_VIOLENCE = 9;//Kháng bạo
+exports.ABILITY_DAMAGE_VIOLENCE = 10;//Sát thương bạo
+exports.ABILITY_IGNORE_DAMAGE_VIOLENCE = 11;//Miễn sát thương bạo
+exports.ABILITY_IGNORE_DEF = 12;//Bỏ qua phòng
+exports.ABILITY_INCR_THERAPY = 13;//Tăng trị liệu
+exports.ABILITY_INCR_RECEIVE_THERAPY = 14;//Tăng nhận trị liệu
+exports.ABILITY_BLOOD_SUCKING_RATE = 15;//Tỉ lệ hút máu
+exports.ABILITY_HIT_EFFECT = 16;//Trúng hiệu ứng
+exports.ABILITY_DECR_EFFECT = 17;//Giảm hiệu ứnG
+exports.ABILITY_SELF_DEF = 18;//Tự vệ
+exports.ABILITY_IGNORE_DAMAGE_MAGIC = 19;//Miễn sát thương phép
+exports.ABILITY_INCR_DAMAGE_PHYS = 20;//Tăng sát thương vật lý
+exports.ABILITY_INCR_DAMAGE_MAGIC = 21;//Tăng sát thương phép
+exports.ABILITY_DECR_INJURY = 22;//Giảm thương
+exports.ABILITY_DAMAGE_FINAL = 23;//Sát thương cuối
+exports.ABILITY_MAX = exports.ABILITY_DAMAGE_FINAL;
+exports.ABILITY_MIN = this.ABILITY_HP;
